@@ -1,1 +1,1 @@
-Utilizando Objeto Usuario, com chave composta utilizando id do tipo UUID.
+Utilizando Objeto Usuario, com CHAVE COMPOSTA, utilizando id do tipo UUID.
